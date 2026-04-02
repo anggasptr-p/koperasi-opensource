@@ -1,1 +1,21 @@
-
+{
+  "name": "koperasi-opensource",
+  "version": "1.0.0",
+  "description": "Aplikasi Koperasi Smaneka",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
