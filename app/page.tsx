@@ -1,4 +1,4 @@
-import { supabase } from '../lib/supabase'
+import { supabase } from "../lib/supabase"
 
 export const revalidate = 0 // Biar data ciloknya fresh terus, gak basi!
 
